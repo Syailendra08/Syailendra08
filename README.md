@@ -9,6 +9,7 @@ Majoring in Software Developer (PPLG).
 If you like to see more about me, visit my Linkedin(https://www.linkedin.com/in/syailendra-anggoro-mukti-4bb76b337/) check it out!
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Syailendra08)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syailendra08)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
